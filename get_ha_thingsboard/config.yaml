@@ -1,7 +1,6 @@
 name: Install SmartLivingNEXT Dataspace Synchronization
-version: "0.0.5"
-slug: get
-image: "ghcr.io/connected-intelligent-systems/ha_thingsboard/{arch}-addon-get"
+version: "0.0.1"
+slug: get_ha_thingsboard
 description: Install SmartLivingNEXT Dataspace Synchronization
 startup: once
 boot: manual
